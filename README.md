@@ -1,5 +1,5 @@
 
-<img src="./FearlessTech.png" width="100%"/>
+<img src="./FearlessBanner.png" width="100%"/>
 
   
 ## 🤗 I am [FearlessTechs](https://github.com/FearlessTech) Mascot and I'm a star gazer. 🤗
